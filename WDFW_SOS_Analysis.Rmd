@@ -88,13 +88,6 @@ ESU_DPS_list<-"ESU_DPS_List.csv"
 ESU_DIP_list_all<-"ESU_DIP_list_all.csv" 
 #Recovery_Goals file name
 Recovery_Goals<-"Recovery_Goals.csv"
-#WDFW SCORE files to join based on pop name with SOS outputs 
-WDFW_Salmonid_Stock_Inventory_Population_Recovery_Goals<-
-  "WDFW-Salmonid_Stock_Inventory_Population_Recovery_Goals.csv"
-WDFW_Salmonid_Stock_Inventory_Populations<-
-  "WDFW-Salmonid_Stock_Inventory_Populations.csv"
-Recovery_Goals_LUT_edited<-
-  "recoverygoals_LUT_edited.csv"
 
 #========================================
 #set date stamp for file names and  plots
